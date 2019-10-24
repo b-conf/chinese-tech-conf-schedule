@@ -6,7 +6,7 @@
 
 技术活动时间冲突，无论对于活动组织者、会议讲师和参会者都是一件很麻烦的事情，我相信所有人都希望尽量避免。所以我创建了这个repo，希望能帮助技术活动的组织者协调活动时间。当然这最终有赖于各主要活动组织者能积极参与，加强沟通和协调，我希望这个仓库能作为一个良好的开端。
 
-## 和活动网站的区别 What's the difference between this repo with conference websites?
+## 和活动网站的区别 What's the difference between this repo with events websites or pages?
 
 已经有许多活动网站比如：
 
@@ -19,7 +19,7 @@
 
 这些网站列出活动是为了宣传或者报名，目标群体是参会者。而本repo的目的是为了能在更早的阶段协调活动的举办时间，目标群体是活动组织者。
 
-## 收录技术活动准则
+## 收录技术活动准则 Which events could be included?
 
 - 技术活动的主要语言是中文
 - 技术活动的主要参与者是程序员
@@ -34,7 +34,7 @@
 
 活动组织者也可以 watch 本仓库，这样当有变动时（通常是会议信息更新），可以收到通知。
 
-## 本仓库的共同维护者
+## 本仓库的共同维护者 Collabrators
 
 - 黄丹（Kitty），Geekbang会议主编，QCon、ArchSummit、GMTC、AICon 等的组织者
 - 裕波 @itchina110 ，w3ctech发起人，FEDay、CSSConf China、VueConf China、ReactConf China 等的组织者，也是 D2、SEEConf 的组织者之一
@@ -43,7 +43,7 @@
 - 于航 [@Becavalier](https://github.com/Becavalier) ，freeCodeCamp 上海社区负责人，CoderBunker/LeWagon Foreign Community Collaborator;
 - 贺师俊 @hax，多个技术会议的出品人和讲师
 
-## 类似尝试
+## 类似尝试 Similar tries
 
 - https://www.yuque.com/itchina110/giku37/xdzuak
 这是裕波（@itchina110）维护的2019前端技术会议列表（包括了重要的海外前端会议，有助于会议组织者协调海外讲师的时间）
