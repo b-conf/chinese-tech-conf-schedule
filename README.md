@@ -13,3 +13,16 @@
 会议组织者可直接修改数据文件并提交PR，或提交issue描述一下会议情况。
 
 会议组织者也可以 watch 本仓库，这样当有变动时（通常是会议信息更新），可以收到通知。
+
+## 本仓库的共同维护者
+
+- 黄丹（Kitty），Geekbang会议主编，QCon、ArchSummit、GMTC、AICon 等的组织者
+- 裕波 @itchina110 ，w3ctech发起人，FEDay、CSSConf China、VueConf China、ReactConf China 等的组织者，也是 D2、SEEConf 的组织者之一
+- 水歌 @TechQuery ，freeCodeCamp成都社区负责人，WebConf Chendu、ReactConf Chendu 等的的组织者
+- 于航 @Becavalier ，freeCodeCamp上海社区负责人
+- 贺师俊 @hax，多个技术会议的出品人和讲师
+
+## 类似尝试
+
+- https://www.yuque.com/itchina110/giku37/xdzuak
+这是裕波（@itchina110）维护的2019前端技术会议列表（包括了重要的海外会议，有助于会议组织者协调海外讲师的时间）
