@@ -14,12 +14,22 @@
 
 会议组织者也可以 watch 本仓库，这样当有变动时（通常是会议信息更新），可以收到通知。
 
+## 会议联盟
+
+各大技术会议的组织者们，把这个徽章贴在你们的 `ReadMe.md` 或官网上吧~
+
+[![TechConf](https://img.shields.io/badge/TechConf-Chinese-red)](https://github.com/hax/chinese-tech-conf-schedule)
+
+```markdown
+[![TechConf](https://img.shields.io/badge/TechConf-Chinese-red)](https://github.com/hax/chinese-tech-conf-schedule)
+```
+
 ## 本仓库的共同维护者
 
 - 黄丹（Kitty），Geekbang会议主编，QCon、ArchSummit、GMTC、AICon 等的组织者
 - 裕波 @itchina110 ，w3ctech发起人，FEDay、CSSConf China、VueConf China、ReactConf China 等的组织者，也是 D2、SEEConf 的组织者之一
 - @makara ，Wiredcraft，JSConf China 等的组织者
-- 水歌 @TechQuery ，freeCodeCamp成都社区负责人，WebConf Chendu、ReactConf Chendu 等的的组织者
+- 水歌 [@TechQuery](https://github.com/TechQuery)，freeCodeCamp 成都社区负责人，WebConf ChengDu、ReactConf ChengDu 等的组织者
 - 于航 @Becavalier ，freeCodeCamp上海社区负责人
 - 贺师俊 @hax，多个技术会议的出品人和讲师
 
