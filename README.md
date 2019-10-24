@@ -14,6 +14,7 @@
 - https://segmentfault.com/events
 - https://www.huodongxing.com
 - https://www.hdb.com
+- https://www.meetup.com
 - ...
 
 这些网站列出活动是为了宣传或者报名，目标群体是参会者。而本repo的目的是为了能在更早的阶段协调活动的举办时间，目标群体是活动组织者。
