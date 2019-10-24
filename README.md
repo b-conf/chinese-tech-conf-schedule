@@ -14,16 +14,6 @@
 
 会议组织者也可以 watch 本仓库，这样当有变动时（通常是会议信息更新），可以收到通知。
 
-## 会议联盟
-
-各大技术会议的组织者们，把这个徽章贴在你们的 `ReadMe.md` 或官网上吧~
-
-[![TechConf](https://img.shields.io/badge/TechConf-Chinese-red)](https://github.com/hax/chinese-tech-conf-schedule)
-
-```markdown
-[![TechConf](https://img.shields.io/badge/TechConf-Chinese-red)](https://github.com/hax/chinese-tech-conf-schedule)
-```
-
 ## 本仓库的共同维护者
 
 - 黄丹（Kitty），Geekbang会议主编，QCon、ArchSummit、GMTC、AICon 等的组织者
