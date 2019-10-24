@@ -1,0 +1,65 @@
+# Chinese Tech Conferences in 2019
+
+QConShanghai2019:
+  name: QCon 全球软件开发大会 2019 上海站
+  date: 2019-10-17
+  days: 3
+  city: Shanghai
+  host: geekbang
+  url: https://qcon.infoq.cn/2019/shanghai/
+
+JSConfChina2019:
+  name: JavaScript 中国开发者大会 2019
+  date: 2019-10-19
+  days: 2
+  city: Shanghai
+  host: wiredcraft
+  url: https://2019.jsconfchina.com
+
+CtripTechSummit2019:
+  name: 2019携程技术峰会
+  date: 2019-11-09
+  days: 1
+  city: Shanghai
+  host: ctrip
+  url: https://techsummit.ctrip.com
+
+Top100Summit2019:
+  name: TOP100全球软件案例研究峰会 2019
+  date: 2019-11-14
+  days: 4
+  city: Beijing
+  host: msup
+  url: https://www.top100summit.com
+
+TWebConf2019:
+  name: TWeb 腾讯前端技术大会 2019
+  date: 2019-11-16
+  days: 1
+  city: Shenzhen
+  host: tencent
+  url: https://tweb.tencent.com
+
+ChengduWebConf2019:
+  name: 2019 成都 Web 全栈大会
+  date: 2019-11-16
+  days: 2
+  city: Chengdu
+  host: fcc-chengdu
+  url: https://webconf.tk
+
+D2-14:
+  name: 第十四届D2前端技术论坛
+  date: 2019-12-14
+  days: 1
+  city: Hangzhou
+  host: alibaba
+  url: http://d2forum.alibaba-inc.com
+
+GMTCShenzhen2019:
+  name: GMTC 全球大前端技术大会 2019 深圳站
+  date: 2019-12-20
+  days: 2
+  city: Shenzhen
+  host: geekbang
+  url: https://gmtc.infoq.cn/2019/shenzhen/
