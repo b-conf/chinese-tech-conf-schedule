@@ -1,0 +1,26 @@
+# Chinese Tech Events in 2020
+
+$others:
+
+  dotSwift2020:
+    date: 2020-02-03
+    days: 1
+    city: Paris, France
+    url: https://2020.dotswift.io
+
+  dotPy2020:
+    date: 2020-03-02
+    days: 1
+    city: Paris, France
+    url: https://www.dotpy.io
+
+  dotGo2020:
+    date: 2020-03-30
+    days: 1
+    city: Paris, France
+    url: https://2020.dotgo.eu
+
+  TPAC2020:
+    date: 2020-10-26
+    days: 5
+    url: https://www.w3.org/wiki/TPAC/2020

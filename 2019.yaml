@@ -1,4 +1,4 @@
-# Chinese Tech Conferences in 2019
+# Chinese Tech Events in 2019
 
 QConShanghai2019:
   name: QCon 全球软件开发大会 2019 上海站
@@ -79,3 +79,17 @@ GMTCShenzhen2019:
   city: Shenzhen
   host: geekbang
   url: https://gmtc.infoq.cn/2019/shenzhen/
+
+$others:
+
+  dotCSS2019:
+    date: 2019-12-04
+    days: 1
+    city: Paris, France
+    url: https://2019.dotcss.io
+
+  dotJS2019:
+    date: 2019-12-05
+    days: 2
+    city: Paris, France
+    url: https://2019.dotjs.io
