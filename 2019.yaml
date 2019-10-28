@@ -16,6 +16,14 @@ JSConfChina2019:
   host: wiredcraft
   url: https://2019.jsconfchina.com
 
+COSCon19:
+  name: 2019 中国开源年会
+  date: 2019-11-02
+  days: 2
+  city: Shanghai
+  host: kaiyuanshe
+  url: https://kaiyuanshe.cn/activity/summit/coscon-2019/
+
 CtripTechSummit2019:
   name: 2019携程技术峰会
   date: 2019-11-09
