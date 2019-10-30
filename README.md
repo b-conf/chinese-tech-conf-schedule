@@ -39,7 +39,7 @@
 
 ## 本仓库的共同维护者 Collabrators
 
-- 黄丹（Kitty），Geekbang会议主编，QCon、ArchSummit、GMTC、AICon 等的组织者
+- 黄丹 [@kittydan](https://github.com/kittydan)，Geekbang会议主编，QCon、ArchSummit、GMTC、AICon 等的组织者
 - 裕波 [@itchina110](https://github.com/itchina110) ，w3ctech发起人，FEDay、CSSConf China、VueConf China、ReactConf China 等的组织者，也是 D2、SEEConf 的组织者之一
 - @makara ，Wiredcraft，JSConf China 等的组织者
 - 水歌 [@TechQuery](https://github.com/TechQuery)，freeCodeCamp 成都社区负责人，WebConf ChengDu、ReactConf ChengDu 等的组织者
