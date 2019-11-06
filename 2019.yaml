@@ -56,13 +56,21 @@ ChengduWebConf2019:
   host: fcc-chengdu
   url: https://webconf.tk
 
-GDG_ChromeDevSummitExtended:
+GDG_ChromeDevSummitExtendedBeijing:
   name: Chrome Dev Summit Extended
   date: 2019-11-23
   days: 0.5
   city: Beijing
   host: GDG_Beijing
   url: https://www.meetup.com/GDG-Beijing/events/265559018/
+  
+GDG_ChromeDevSummitExtendedShanghai:
+  name: Chrome Dev Summit Extended Shanghai
+  date: 2019-11-23
+  days: 0.5
+  city: Shanghai
+  host: GDG_Shanghai
+  url: https://www.meetup.com/Shanghai-GDG/events/266228915/
 
 GDG_DevFest2019Beijing:
   name: GDG DevFest 2019 Beijing
