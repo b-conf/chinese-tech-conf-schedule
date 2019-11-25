@@ -1,5 +1,21 @@
 # Chinese Tech Events in 2020
 
+SEEConf3rd:
+  name: 第三届 SEE Conf 蚂蚁金服体验科技大会
+  date: 2020-01-04
+  days: 1
+  city: Hangzhou
+  host: antfin
+  url: https://seeconf.antfin.com
+
+QConBeijing2020:
+  name: QCon 全球软件开发大会 2020 北京站
+  date: 2020-04-09
+  days: 3
+  city: Beijing
+  host: geekbang
+  url: https://qcon.infoq.cn/2020/beijing/
+
 $others:
 
   dotSwift2020:

@@ -43,7 +43,7 @@
 - 裕波 [@itchina110](https://github.com/itchina110) ，w3ctech发起人，FEDay、CSSConf China、VueConf China、ReactConf China 等的组织者，也是 D2、SEEConf 的组织者之一
 - [@makara](https://github.com/makara)，Wiredcraft，JSConf China 等的组织者
 - 水歌 [@TechQuery](https://github.com/TechQuery)，freeCodeCamp 成都社区负责人，WebConf ChengDu、ReactConf ChengDu 等的组织者
-- 于航 [@Becavalier](https://github.com/Becavalier) ，freeCodeCamp 上海社区负责人，CoderBunker/LeWagon Foreign Community Collaborator;
+- 于航 [@Becavalier](https://github.com/Becavalier) ，freeCodeCamp 上海社区负责人，CoderBunker/LeWagon Foreign Community Collaborator
 - 余知权 [@yzpower](https://github.com/yzpower)，GDG上海社区核心组织者，JUG上海社区发起人
 - 贺师俊 @hax，多个技术会议的出品人和讲师
 
