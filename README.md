@@ -31,7 +31,7 @@
 
 ## 如何使用这个仓库 How to use?
 
-目前我只是有个简陋的 [yaml 数据文件](./2019.yaml)，记录技术活动的时间和一些信息。后续希望能加入一个更好的查询界面。
+目前只是有个简陋的 [yaml 数据文件](./2019.yaml)，记录技术活动的时间和一些信息。感谢题叶 [@jiyinyiyong](https://github.com/jiyinyiyong) 提供了一个界面：http://repo.memkits.org/conf-dates/
 
 活动组织者可直接修改数据文件并提交PR，或提交issue描述一下活动情况。
 
