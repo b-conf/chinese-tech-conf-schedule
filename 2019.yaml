@@ -72,14 +72,6 @@ GDG_ChromeDevSummitExtendedShanghai:
   host: GDG_Shanghai
   url: https://www.meetup.com/Shanghai-GDG/events/266228915/
 
-GDG_DevFest2019Beijing:
-  name: GDG DevFest 2019 Beijing
-  date: 2019-12-0?
-  days: 1
-  city: Beijing
-  host: GDG_Beijing
-  url: https://www.meetup.com/GDG-Beijing/events/265252940/
-
 ArchSummit:
   name: ArchSummit 全球架构师峰会
   date: 2019-12-06
@@ -87,6 +79,14 @@ ArchSummit:
   city: Beijing
   host: geekbang
   url: https://archsummit.infoq.cn/2019/beijing/
+
+GDG_DevFest2019Beijing:
+  name: GDG DevFest 2019 Beijing
+  date: 2019-12-08
+  days: 1
+  city: Beijing
+  host: GDG_Beijing
+  url: https://www.meetup.com/GDG-Beijing/events/265252940/
 
 D2-14:
   name: 第十四届D2前端技术论坛
