@@ -1,0 +1,41 @@
+# Chinese Tech Events in 2021
+
+GMTC2021:
+  name: GMTC 全球大前端技术大会 北京2021
+  date: 2021-07-04
+  days: 2
+  city: Beijing
+  host: geekbang
+  url: https://gmtc.infoq.cn/2021/beijing/
+
+fp5:
+  name: 第五届函数式编程分享会
+  date: 2021-07-10
+  days: 1
+  city: Shanghai
+  host: 祖与占
+  url: https://zhuanlan.zhihu.com/p/382695580
+  
+GOTC-sh:
+  name: GOTC全球开源技术峰会（上海）
+  date: 2021-07-10
+  days: 1
+  city: Shanghai
+  host: oschina
+  url: https://gotc.oschina.net/
+  
+GOTC-sz:
+  name: GOTC全球开源技术峰会（深圳）
+  date: 2021-07-31
+  days: 2
+  city: Shenzhen
+  host: oschina
+  url: https://gotc.oschina.net/
+  
+CCFTF43:
+  name: CCFTF-SIG前端技术：前端的未来发展方向
+  date: 2021-07-31
+  days: 1
+  city: Beijing
+  host: CCF
+  url: https://www.ccf.org.cn/Activities/Training/TF/Event_calendar/
