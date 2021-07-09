@@ -1,14 +1,30 @@
 # Chinese Tech Events in 2021
 
-GMTC2021:
-  name: GMTC 全球大前端技术大会 北京2021
+QConBeijing:
+  name: QCon北京2021
+  date: 2021-05-29
+  days: 3
+  city: Beijing
+  host: geekbang
+  url: https://qcon.infoq.cn/2021/beijing
+
+GMTC-Beijing:
+  name: GMTC 全球大前端技术大会 2021·北京站
   date: 2021-07-04
   days: 2
   city: Beijing
   host: geekbang
-  url: https://gmtc.infoq.cn/2021/beijing/
+  url: https://gmtc.infoq.cn/2021/beijing
 
-fp5:
+GOTC-Shanghai:
+  name: GOTC全球开源技术峰会（上海）
+  date: 2021-07-09
+  days: 2
+  city: Shanghai
+  host: oschina
+  url: https://gotc.oschina.net/
+  
+FP5:
   name: 第五届函数式编程分享会
   date: 2021-07-10
   days: 1
@@ -16,15 +32,7 @@ fp5:
   host: 祖与占
   url: https://zhuanlan.zhihu.com/p/382695580
   
-GOTC-sh:
-  name: GOTC全球开源技术峰会（上海）
-  date: 2021-07-10
-  days: 1
-  city: Shanghai
-  host: oschina
-  url: https://gotc.oschina.net/
-  
-GOTC-sz:
+GOTC-Shenzhen:
   name: GOTC全球开源技术峰会（深圳）
   date: 2021-07-31
   days: 2
@@ -39,3 +47,44 @@ CCFTF43:
   city: Beijing
   host: CCF
   url: https://www.ccf.org.cn/Activities/Training/TF/Event_calendar/
+  
+ArchSummitShenzhen:
+  name: ArchSummit全球架构师峰会 深圳2021
+  date: 2021-09-03
+  days: 2
+  city: Shenzhen
+  host: geekbang
+  url: https://archsummit.infoq.cn/2021/shenzhen
+
+xdc2021:
+  name: 稀土开发者大会
+  date: 2021-09-10
+  days: 2
+  city: Beijing
+  host: juejin
+  url: https://conf.juejin.cn/xdc2021
+
+QConShanghai:
+  name: QCon上海2021
+  date: 2021-10-21
+  days: 3
+  city: Shanghai
+  host: geekbang
+  url: https://qcon.infoq.cn/2021/shanghai
+
+GMTC-Shenzhen:
+  name: GMTC 全球大前端技术大会 2021·深圳站
+  date: 2021-11-19
+  days: 2
+  city: Shenzhen
+  host: geekbang
+  url: https://gmtc.infoq.cn/2021/shenzhen
+
+ArchSummitBeijing:
+  name: ArchSummit全球架构师峰会 北京2021
+  date: 2021-12-03
+  days: 2
+  city: Beijing
+  host: geekbang
+  url: https://archsummit.infoq.cn/2021/beijing
+
