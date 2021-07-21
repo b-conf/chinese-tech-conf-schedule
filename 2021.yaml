@@ -31,7 +31,15 @@ FP5:
   city: Shanghai
   host: 祖与占
   url: https://zhuanlan.zhihu.com/p/382695580
-  
+
+GIAC:
+  name: GIAC全球互联网架构大会
+  date: 2021-07-30
+  days: 2
+  city: Shenzhen
+  host: msup
+  url:  https://giac.msup.com.cn/
+
 GOTC-Shenzhen:
   name: GOTC全球开源技术峰会（深圳）
   date: 2021-07-31
@@ -55,6 +63,14 @@ ArchSummitShenzhen:
   city: Shenzhen
   host: geekbang
   url: https://archsummit.infoq.cn/2021/shenzhen
+  
+EE:
+  name: 卓越工程生产力大会
+  date: 2021-09-04
+  days: 2
+  city: Beijing
+  host: msup
+  url: https://ee.msup.com.cn/
 
 xdc2021:
   name: 稀土开发者大会
@@ -63,6 +79,14 @@ xdc2021:
   city: Beijing
   host: juejin
   url: https://conf.juejin.cn/xdc2021
+
+Inclusion:
+  name: Inclusion外滩大会
+  days: 2021-09-10
+  days: 3
+  city: Shanghai
+  host: Alipay
+  url: https://www.inclusionconf.com/
 
 QConShanghai:
   name: QCon上海2021
@@ -87,4 +111,3 @@ ArchSummitBeijing:
   city: Beijing
   host: geekbang
   url: https://archsummit.infoq.cn/2021/beijing
-
