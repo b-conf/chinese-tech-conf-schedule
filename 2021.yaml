@@ -55,6 +55,14 @@ CCFTF43:
   city: Beijing
   host: CCF
   url: https://www.ccf.org.cn/Activities/Training/TF/Event_calendar/
+
+ApacheCon:
+  name: Apache亚洲峰会
+  date: 2021-08-06
+  days: 3
+  city: online
+  host: apache
+  url: https://apachecon.com/acasia2021/zh/
   
 ArchSummitShenzhen:
   name: ArchSummit全球架构师峰会 深圳2021
