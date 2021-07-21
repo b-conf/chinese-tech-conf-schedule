@@ -55,6 +55,14 @@ CCFTF43:
   city: Beijing
   host: CCF
   url: https://www.ccf.org.cn/Activities/Training/TF/Event_calendar/
+  
+D-Day-Beijing:
+  name: SegmentFault D-Day 大前端技术沙龙·北京站
+  date: 2021-07-31
+  days: 1
+  city: Beijing
+  host: sf
+  url: https://segmentfault.com/e/1160000040339932
 
 ApacheCon:
   name: Apache亚洲峰会
