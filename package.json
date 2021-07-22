@@ -1,0 +1,17 @@
+{
+  "name": "chinese-tech-conf-schedule",
+  "version": "0.0.0",
+  "description": "list of confs",
+  "main": "index.js",
+  "scripts": {
+    "mk-json": "node ./scripts/mk-json.mjs"
+  },
+  "repository": "git@github.com:b-conf/chinese-tech-conf-schedule.git",
+  "author": "B_CONF",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/yamljs": "^0.2.31",
+    "yamljs": "^0.3.0"
+  }
+}
