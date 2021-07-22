@@ -72,6 +72,14 @@ ApacheCon:
   host: apache
   url: https://apachecon.com/acasia2021/zh/
 
+NodeSubway:
+  name: Node地下铁
+  date: 2021-08-08
+  days: 1
+  city: Beijing
+  host: ?
+  url: ?
+  
 RubyConf:
   name: RubyConf China 2021 Hotwire
   date: 2021-08-14
