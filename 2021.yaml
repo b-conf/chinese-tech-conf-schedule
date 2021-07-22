@@ -71,7 +71,15 @@ ApacheCon:
   city: online
   host: apache
   url: https://apachecon.com/acasia2021/zh/
-  
+
+RubyConf:
+  name: RubyConf China 2021 Hotwire
+  date: 2021-08-14
+  days: 2
+  city: Shanghai
+  host: rubychina
+  url: http://rubyconfchina.org/
+
 ArchSummitShenzhen:
   name: ArchSummit全球架构师峰会 深圳2021
   date: 2021-09-03
