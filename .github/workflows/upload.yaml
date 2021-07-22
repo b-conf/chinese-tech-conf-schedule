@@ -19,7 +19,7 @@ jobs:
           && mkdir dist/ && yarn && yarn mk-json
 
       - name: get yaml files
-        run: cp *.yaml dist/
+        run: cp -v *.yaml dist/
 
       - name: Deploy to server
         id: deploy

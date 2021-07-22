@@ -3,18 +3,36 @@ import { writeFileSync } from "fs";
 
 // docs refer to https://www.npmjs.com/package/yamljs
 
-let file2021 = YAML.load("./2021.yaml");
-let target2021 = "dist/2021.json";
+let years = [2019, 2020, 2021];
 
-let xs = [];
+for (let year of years) {
+  let fileOfyear = YAML.load(`./${year}.yaml`);
+  let targetOfYear = `dist/${year}.json`;
 
-for (let k in file2021) {
-  let v = file2021[k];
-  xs.push({
-    ...v,
-    code: k,
+  let xs = [];
+
+  for (let k in fileOfyear) {
+    if (k === "$others") {
+      console.log("ignoring data insider `$others`");
+    }
+    let v = fileOfyear[k];
+    xs.push({
+      ...v,
+      code: k,
+    });
+  }
+
+  // make sure sorted by date
+  xs.sort((a, b) => {
+    if (a.date < b.date) {
+      return -1;
+    } else if (a.date > b.date) {
+      return 1;
+    } else {
+      return 0;
+    }
   });
-}
 
-writeFileSync(target2021, JSON.stringify(xs, null, 2));
-console.log(`created file: ${target2021}`);
+  writeFileSync(targetOfYear, JSON.stringify(xs, null, 2));
+  console.log(`created file: ${targetOfYear}`);
+}
