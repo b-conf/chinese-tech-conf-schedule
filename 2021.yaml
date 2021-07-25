@@ -120,6 +120,14 @@ Inclusion:
   host: Alipay
   url: https://www.inclusionconf.com/
 
+TWebConf:
+  name: 腾讯前端技术大会 2021 TWeb Conf
+  date: 2021-09-11
+  days: 1
+  city: Shenzhen
+  host: tencent
+  url: https://tweb.tencent.com/
+
 QConShanghai:
   name: QCon上海2021
   date: 2021-10-21
