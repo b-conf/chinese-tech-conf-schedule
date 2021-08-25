@@ -88,25 +88,9 @@ RubyConf:
   host: rubychina
   url: http://rubyconfchina.org/
 
-ArchSummitShenzhen:
-  name: ArchSummit全球架构师峰会 深圳2021
-  date: 2021-09-03
-  days: 2
-  city: Shenzhen
-  host: geekbang
-  url: https://archsummit.infoq.cn/2021/shenzhen
-  
-EE:
-  name: 卓越工程生产力大会
-  date: 2021-09-04
-  days: 2
-  city: Beijing
-  host: msup
-  url: https://ee.msup.com.cn/
-
 xdc2021:
   name: 稀土开发者大会
-  date: 2021-09-10
+  date: 2021-??-??
   days: 2
   city: Beijing
   host: juejin
@@ -114,19 +98,19 @@ xdc2021:
 
 Inclusion:
   name: Inclusion外滩大会
-  date: 2021-09-10
+  date: 2021-??-??
   days: 3
   city: Shanghai
   host: Alipay
   url: https://www.inclusionconf.com/
 
-TWebConf:
-  name: 腾讯前端技术大会 2021 TWeb Conf
-  date: 2021-09-11
-  days: 1
-  city: Shenzhen
-  host: tencent
-  url: https://tweb.tencent.com/
+EE:
+  name: 卓越工程生产力大会
+  date: 2021-10-15
+  days: 2
+  city: Beijing
+  host: msup
+  url: https://ee.msup.com.cn/
 
 QConShanghai:
   name: QCon上海2021
@@ -136,6 +120,22 @@ QConShanghai:
   host: geekbang
   url: https://qcon.infoq.cn/2021/shanghai
 
+TWebConf:
+  name: 腾讯前端技术大会 2021 TWeb Conf
+  date: 2021-10-24
+  days: 1
+  city: Shenzhen
+  host: tencent
+  url: https://tweb.tencent.com/
+
+ArchSummitShenzhen:
+  name: ArchSummit全球架构师峰会 深圳2021
+  date: 2021-11-12
+  days: 2
+  city: Shenzhen
+  host: geekbang
+  url: https://archsummit.infoq.cn/2021/shenzhen
+
 GMTC-Shenzhen:
   name: GMTC 全球大前端技术大会 2021·深圳站
   date: 2021-11-19
@@ -144,6 +144,14 @@ GMTC-Shenzhen:
   host: geekbang
   url: https://gmtc.infoq.cn/2021/shenzhen
 
+Dive:
+  name: 全球基础软件创新大会
+  date: 2021-11-26
+  days: 2
+  city: Beijing
+  host: geekbang
+  url: https://dive.infoq.cn/2021/beijing
+
 ArchSummitBeijing:
   name: ArchSummit全球架构师峰会 北京2021
   date: 2021-12-03
@@ -151,3 +159,4 @@ ArchSummitBeijing:
   city: Beijing
   host: geekbang
   url: https://archsummit.infoq.cn/2021/beijing
+  
