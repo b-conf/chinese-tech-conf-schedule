@@ -90,7 +90,7 @@ RubyConf:
 
 xdc2021:
   name: 稀土开发者大会
-  date: 2021-??-??
+  date: 2021-10-27
   days: 2
   city: Beijing
   host: juejin
@@ -98,11 +98,19 @@ xdc2021:
 
 Inclusion:
   name: Inclusion外滩大会
-  date: 2021-??-??
+  date: 2021-12-??
   days: 3
   city: Shanghai
   host: Alipay
   url: https://www.inclusionconf.com/
+
+OADC:
+  name: 开放原子全球开发者大会
+  date: 2021-10-15
+  days: 2
+  city: Shenzhen
+  host: openatom
+  url: https://openatom.org/static_event/oadc/
 
 EE:
   name: 卓越工程生产力大会
