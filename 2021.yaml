@@ -106,7 +106,7 @@ Inclusion:
 
 OADC:
   name: 开放原子全球开发者大会
-  date: 2021-10-15
+  date: 2021-11-12
   days: 2
   city: Shenzhen
   host: openatom
@@ -167,4 +167,12 @@ ArchSummitBeijing:
   city: Beijing
   host: geekbang
   url: https://archsummit.infoq.cn/2021/beijing
+  
+WOT:
+  name: WOT全球技术创新大会
+  date: 2021-12-11
+  days: 2
+  city: Beijing
+  host: 51cto
+  url: https://wot.51cto.com/act/wot2021/dev/
   
