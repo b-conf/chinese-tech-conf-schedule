@@ -176,3 +176,19 @@ WOT:
   host: 51cto
   url: https://wot.51cto.com/act/wot2021/dev/
   
+Top100Summit:
+  name: 第十届全球软件案例研究峰会
+  date: 2021-12-16
+  days: 4
+  city: Beijing
+  host: msup
+  url: https://www.top100summit.com/
+  
+cecc:
+  name: 中国计算机教育大会
+  date: 2021-12-02
+  days: 3
+  city: Xiamen
+  host: msup
+  url: https://cecc.msup.com.cn/
+  
