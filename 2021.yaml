@@ -183,6 +183,14 @@ Top100Summit:
   city: Beijing
   host: msup
   url: https://www.top100summit.com/
+
+D2:
+  name: 第16界D2前端技术论坛
+  date: 2021-12-18
+  days: 2
+  city: Hangzhou
+  host: alibaba
+  url: http://d2forum.alibaba-inc.com
   
 cecc:
   name: 中国计算机教育大会
