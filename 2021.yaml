@@ -136,6 +136,14 @@ TWebConf:
   host: tencent
   url: https://tweb.tencent.com/
 
+COSCon21:
+  name: 第六届中国开源年会
+  date: 2021-10-30
+  days: 2
+  city: Chengdu, Shenzhen, Shanghai, Beijing, Zhuhai, Dalian, Wuxi, Fuzhou
+  host: kaiyuanshe
+  url: https://www.bagevent.com/event/7685233
+
 ArchSummitShenzhen:
   name: ArchSummit全球架构师峰会 深圳2021
   date: 2021-11-12
