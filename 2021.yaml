@@ -200,11 +200,11 @@ D2:
   host: alibaba
   url: http://d2forum.alibaba-inc.com
   
-cecc:
-  name: 中国计算机教育大会
-  date: 2021-12-02
-  days: 3
-  city: Xiamen
-  host: msup
-  url: https://cecc.msup.com.cn/
+# cecc:
+#   name: 中国计算机教育大会
+#   date: 2021-12-02 延后到 2022-03-25
+#   days: 3
+#   city: Xiamen
+#   host: msup
+#   url: https://cecc.msup.com.cn/
   
