@@ -176,13 +176,13 @@ ArchSummitBeijing:
   host: geekbang
   url: https://archsummit.infoq.cn/2021/beijing
   
-WOT:
-  name: WOT全球技术创新大会
-  date: 2021-12-11
-  days: 2
-  city: Beijing
-  host: 51cto
-  url: https://wot.51cto.com/act/wot2021/dev/
+# WOT:
+#   name: WOT全球技术创新大会
+#   date: 2021-12-11 推迟到2022年4月
+#   days: 2
+#   city: Beijing
+#   host: 51cto
+#   url: https://wot.51cto.com/act/wot2021/dev/
   
 Top100Summit:
   name: 第十届全球软件案例研究峰会
