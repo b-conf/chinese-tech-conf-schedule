@@ -160,13 +160,13 @@ GMTC-Shenzhen:
   host: geekbang
   url: https://gmtc.infoq.cn/2021/shenzhen
 
-Dive:
-  name: 全球基础软件创新大会
-  date: 2021-11-26
-  days: 2
-  city: Beijing
-  host: geekbang
-  url: https://dive.infoq.cn/2021/beijing
+# Dive:
+#   name: 全球基础软件创新大会
+#   date: 2021-11-26 延后到 2022-03-25
+#   days: 2
+#   city: Beijing
+#   host: geekbang
+#   url: https://dive.infoq.cn/2021/beijing
 
 ArchSummitBeijing:
   name: ArchSummit全球架构师峰会 北京2021
