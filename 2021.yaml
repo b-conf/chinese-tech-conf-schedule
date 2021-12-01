@@ -96,21 +96,21 @@ xdc2021:
   host: juejin
   url: https://conf.juejin.cn/xdc2021
 
-Inclusion:
-  name: Inclusion外滩大会
-  date: 2021-12-??（延期）
-  days: 3
-  city: Shanghai
-  host: Alipay
-  url: https://www.inclusionconf.com/
+# Inclusion:
+#   name: Inclusion外滩大会
+#   date: 2021-12-??（延期）
+#   days: 3
+#   city: Shanghai
+#   host: Alipay
+#   url: https://www.inclusionconf.com/
 
-OADC:
-  name: 开放原子全球开发者大会
-  date: 2021-12-??（延期）
-  days: 2
-  city: Shenzhen
-  host: openatom
-  url: https://openatom.org/static_event/oadc/
+# OADC:
+#   name: 开放原子全球开发者大会
+#   date: 2021-12-??（延期）
+#   days: 2
+#   city: Shenzhen
+#   host: openatom
+#   url: https://openatom.org/static_event/oadc/
 
 EE:
   name: 卓越工程生产力大会
