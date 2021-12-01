@@ -1,1 +1,51 @@
+# Chinese Tech Events in 2022
+
+Inclusion:
+  name: Inclusion外滩大会
+  date: 2022-??-??
+  days: 3
+  city: Shanghai
+  host: Alipay
+  url: https://www.inclusionconf.com/
+
+OADC:
+  name: 开放原子全球开发者大会
+  date: 2022-??-??
+  days: 2
+  city: Shenzhen
+  host: openatom
+  url: https://openatom.org/static_event/oadc/
+
+Dive:
+  name: 全球基础软件创新大会
+  date: 2022-03-25
+  days: 2
+  city: Beijing
+  host: geekbang
+  url: https://dive.infoq.cn/2021/beijing
+
+WOT:
+  name: WOT全球技术创新大会
+  date: 2022-04-09
+  days: 2
+  city: Beijing
+  host: 51cto
+  url: https://wot.51cto.com/act/wot2021/dev/
+  
+Top100Summit:
+  name: 第十届全球软件案例研究峰会
+  date: 2022-01-??
+  days: 4
+  city: Beijing
+  host: msup
+  url: https://www.top100summit.com/
+
+cecc:
+  name: 中国计算机教育大会
+  date: 2022-03-25
+  days: 3
+  city: Xiamen
+  host: msup
+  url: https://cecc.msup.com.cn/
+  
 
