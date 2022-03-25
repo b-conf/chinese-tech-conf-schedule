@@ -18,7 +18,7 @@ OADC:
 
 Dive:
   name: 全球基础软件创新大会
-  date: 2022-03-25
+  date: 2022-04-15
   days: 2
   city: Beijing
   host: geekbang
@@ -26,7 +26,7 @@ Dive:
 
 WOT:
   name: WOT全球技术创新大会
-  date: 2022-04-09
+  date: 2022-05-14
   days: 2
   city: Beijing
   host: 51cto
@@ -34,11 +34,19 @@ WOT:
   
 Top100Summit:
   name: 第十届全球软件案例研究峰会
-  date: 2022-01-??
+  date: 2022-01-06
   days: 4
   city: Beijing
   host: msup
   url: https://www.top100summit.com/
+
+SDCon:
+  name: 2022全球软件研发技术大会
+  date: 2022-07-15
+  days: 2
+  city: Shanghai
+  host: boolan
+  url: http://sdcon.com.cn/
 
 cecc:
   name: 中国计算机教育大会
