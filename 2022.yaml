@@ -14,7 +14,7 @@ OADC:
   days: 2
   city: Shenzhen
   host: openatom
-  url: https://openatom.org/static_event/oadc/
+  url: https://www.openatom.org/static_event/oadc/
 
 Dive:
   name: 全球基础软件创新大会
