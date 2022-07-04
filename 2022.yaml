@@ -15,6 +15,14 @@ OADC:
   city: Shenzhen
   host: openatom
   url: https://www.openatom.org/static_event/oadc/
+  
+OASummit:
+  name: 2022开放原子全球开源峰会
+  date: 2022-07-25
+  days: 3
+  city: Beijing
+  host: openatom
+  url: https://openatom.cn/summit/
 
 Dive:
   name: 全球基础软件创新大会
@@ -42,7 +50,7 @@ Top100Summit:
 
 SDCon:
   name: 2022全球软件研发技术大会
-  date: 2022-07-15
+  date: 2022-10-??
   days: 2
   city: Shanghai
   host: boolan
