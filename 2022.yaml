@@ -16,7 +16,7 @@ OADC:
   host: openatom
   url: https://www.openatom.org/static_event/oadc/
   
-OASummit:
+OAGS:
   name: 2022开放原子全球开源峰会
   date: 2022-07-25
   days: 3
@@ -50,7 +50,7 @@ Top100Summit:
 
 SDCon:
   name: 2022全球软件研发技术大会
-  date: 2022-10-??
+  date: 2022-10-10
   days: 2
   city: Shanghai
   host: boolan
