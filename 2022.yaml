@@ -41,11 +41,19 @@ WOT:
   url: https://wot.51cto.com/act/wot2021/dev/
   
 GIAC-2022sz:
-  name: 全球互联网架构大会
+  name: 全球互联网架构大会 深圳站
+  date: 2022-07-22
+  days: 2
+  host: msup
+  city: Shenzhen
   url: https://giac.msup.com.cn/2022sz/home
 
 GIAC-2022sh:
-  name: 全球互联网架构大会
+  name: 全球互联网架构大会 上海站
+  date: 2022-09-16
+  days: 2
+  city: Shanghai
+  host: msup
   url: https://giac.msup.com.cn/2022sh/home
   
 Top100Summit:
