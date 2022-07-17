@@ -40,6 +40,14 @@ WOT:
   host: 51cto
   url: https://wot.51cto.com/act/wot2021/dev/
   
+GIAC-2022sz:
+  name: 全球互联网架构大会
+  url: https://giac.msup.com.cn/2022sz/home
+
+GIAC-2022sh:
+  name: 全球互联网架构大会
+  url: https://giac.msup.com.cn/2022sh/home
+  
 Top100Summit:
   name: 第十届全球软件案例研究峰会
   date: 2022-01-06
