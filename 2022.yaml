@@ -18,7 +18,7 @@ OADC:
   
 OAGS:
   name: 2022开放原子全球开源峰会
-  date: 2022-07-25
+  date: 2022-07-27
   days: 3
   city: Beijing
   host: openatom
@@ -56,6 +56,22 @@ GIAC-2022sh:
   host: msup
   url: https://giac.msup.com.cn/2022sh/home
   
+COSCon22:
+  name: 2022 第七届中国开源年会（COSCon 2022）
+  date: 2022-10-15
+  days: 2
+  city: Online, Chengdu, Shenzhen, Shanghai, Beijing
+  host: kaiyuanshe
+  url: https://kaiyuanshe.cn/categories/Activity/Summit/
+  
+TPAC2022-China-Hub:
+  name: 新一代 Web 技术标准论坛 · W3C 2022 年度全球技术大会中国会场
+  date: 2022-09-06
+  days: 2
+  city: Hangzhou
+  host: w3c
+  url: https://www.chinaw3c.org/tpac2022-china-hub.html
+
 Top100Summit:
   name: 第十届全球软件案例研究峰会
   date: 2022-01-06
@@ -66,7 +82,7 @@ Top100Summit:
 
 SDCon:
   name: 2022全球软件研发技术大会
-  date: 2022-10-10
+  date: 2022-11-10
   days: 2
   city: Shanghai
   host: boolan
