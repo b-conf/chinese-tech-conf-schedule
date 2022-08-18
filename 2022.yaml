@@ -48,6 +48,30 @@ GIAC-2022sz:
   city: Shenzhen
   url: https://giac.msup.com.cn/2022sz/home
 
+QConBeijing:
+  name: QCon 全球软件开发大会 2022·北京站
+  date: 2022-09-17
+  days: 3
+  host: geekbang
+  city: Beijing
+  url: https://qcon.infoq.cn/2022/beijing
+  
+GMTCBeijing:
+  name: GMTC 全球大前端技术大 2022·北京站
+  data: 2022-09-15
+  days: 2
+  host: geekbang
+  city: Beijing
+  url: https://gmtc.infoq.cn/2022/beijing/
+
+GMTCShenzhen:
+  name: GMTC 全球大前端技术大 2022·深圳站
+  data: 2022-10-21
+  days: 2
+  host: geekbang
+  city: Shenzhen
+  url: https://gmtc.infoq.cn/2022/shenzhen/
+
 GIAC-2022sh:
   name: 全球互联网架构大会 上海站
   date: 2022-09-16
