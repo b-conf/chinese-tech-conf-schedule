@@ -58,7 +58,7 @@ QConBeijing:
   
 GMTCBeijing:
   name: GMTC 全球大前端技术大 2022·北京站
-  data: 2022-09-15
+  date: 2022-09-15
   days: 2
   host: geekbang
   city: Beijing
@@ -66,7 +66,7 @@ GMTCBeijing:
 
 GMTCShenzhen:
   name: GMTC 全球大前端技术大 2022·深圳站
-  data: 2022-10-21
+  date: 2022-10-21
   days: 2
   host: geekbang
   city: Shenzhen
