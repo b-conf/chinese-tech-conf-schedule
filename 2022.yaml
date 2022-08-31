@@ -120,4 +120,26 @@ cecc:
   host: msup
   url: https://cecc.msup.com.cn/
   
+CSDI:
+  name: 中国软件研发管理行业技术峰会
+  date: 2022-09-16
+  days: 3
+  city: Online
+  host: bailinzhe
+  url: https://www.bagevent.com/event/csdisummit/p/495474
 
+DTCC:
+  name: 中国数据库技术大会
+  date: 2022-12-16
+  days: 3
+  city: Beijing
+  host: it168
+  url: https://dtcc.it168.com/
+
+Web3:
+  name: Web 3.0 2022
+  date: 2022-12-16
+  days: 1
+  city: Shanghai
+  host: conf42
+  url: https://www.conf42.com/web2022
