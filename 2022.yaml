@@ -64,13 +64,13 @@ GMTCBeijing:
   city: Beijing
   url: https://gmtc.infoq.cn/2022/beijing/
 
-GMTCShenzhen:
-  name: GMTC 全球大前端技术大 2022·深圳站
-  date: 2022-10-21
-  days: 2
-  host: geekbang
-  city: Shenzhen
-  url: https://gmtc.infoq.cn/2022/shenzhen/
+# GMTCShenzhen:
+#   name: GMTC 全球大前端技术大 2022·深圳站
+#   date: 2022-10-21
+#   days: 2
+#   host: geekbang
+#   city: Shenzhen
+#   url: https://gmtc.infoq.cn/2022/shenzhen/
 
 GIAC-2022sh:
   name: 全球互联网架构大会 上海站
