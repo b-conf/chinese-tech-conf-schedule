@@ -3,7 +3,7 @@ import { writeFileSync } from "fs";
 
 // docs refer to https://www.npmjs.com/package/yamljs
 
-let years = [2019, 2020, 2021, 2022];
+let years = [2019, 2020, 2021, 2022, 2023];
 
 for (let year of years) {
   let fileOfyear = YAML.load(`./${year}.yaml`);
