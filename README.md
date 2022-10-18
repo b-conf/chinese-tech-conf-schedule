@@ -31,7 +31,7 @@
 
 ## 如何使用这个仓库 How to use?
 
-目前只是有个简陋的 [yaml 数据文件](./2019.yaml)，记录技术活动的时间和一些信息。感谢题叶 [@jiyinyiyong](https://github.com/jiyinyiyong) 提供了一个界面：http://r.tiye.me/b-conf/conf-dates/
+目前只是有个简陋的 [yaml 数据文件](./2019.yaml)，记录技术活动的时间和一些信息。感谢[题叶](https://github.com/tiye)提供了一个界面：http://r.tiye.me/b-conf/conf-dates/
 
 活动组织者可直接修改数据文件并提交PR，或提交issue描述一下活动情况。
 
