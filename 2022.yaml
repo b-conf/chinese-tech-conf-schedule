@@ -50,7 +50,7 @@ GIAC-2022sz:
 
 QConBeijing:
   name: QCon 全球软件开发大会 2022·北京站
-  date: 2022-10-30
+  date: 2022-11-20
   days: 3
   host: geekbang
   city: Beijing
@@ -58,7 +58,7 @@ QConBeijing:
   
 GMTCBeijing:
   name: GMTC 全球大前端技术大 2022·北京站
-  date: 2022-10-30
+  date: 2022-11-21
   days: 2
   host: geekbang
   city: Beijing
