@@ -130,11 +130,11 @@ CSDI:
 
 KeylinkCon:
   name: K+全球软件研发行业创新峰会 上海站
-  date: 2022-11-04
+  date: 2022-11-27
   days: 2
   city: Shanghai
   host: keylinking
-  url: https://mp.weixin.qq.com/s/OzuARhM1qyOtXYF_5rBMTw
+  url: http://2022shanghai.keylinkcon.com/
 
 DTCC:
   name: 中国数据库技术大会
