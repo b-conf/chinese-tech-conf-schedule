@@ -128,6 +128,14 @@ CSDI:
   host: bailinzhe
   url: https://www.bagevent.com/event/csdisummit/p/495474
 
+ChinaOSC:
+  name: 2022 CCF中国开源大会
+  date: 2022-11-05
+  days: 2
+  city: Xi'an
+  host: ccf
+  url: https://chinaosc.ccf.org.cn/
+
 KeylinkCon:
   name: K+全球软件研发行业创新峰会 上海站
   date: 2022-11-27
