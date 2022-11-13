@@ -103,7 +103,15 @@ GIAC-2022sh:
   city: Shanghai
   host: msup
   url: https://giac.msup.com.cn/2022sh/home
-  
+
+IDEA-2022:
+  name: IDEA大会
+  date: 2022-11-22
+  days: 2
+  city: Shenzhen
+  host: idea
+  url: https://conference.idea.edu.cn/
+
 KeylinkCon:
   name: K+全球软件研发行业创新峰会 上海站
   date: 2022-11-27
