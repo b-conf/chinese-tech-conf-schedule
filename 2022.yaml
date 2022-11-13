@@ -122,7 +122,7 @@ SDCon:
 
 QConBeijing:
   name: QCon 全球软件开发大会 2022·北京站
-  date: 2022-11-20
+  date: 2022-12-18
   days: 3
   host: geekbang
   city: Beijing
@@ -130,7 +130,7 @@ QConBeijing:
   
 GMTCBeijing:
   name: GMTC 全球大前端技术大 2022·北京站
-  date: 2022-11-21
+  date: 2022-12-19
   days: 2
   host: geekbang
   city: Beijing
