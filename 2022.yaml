@@ -127,6 +127,14 @@ SDCon:
   city: Shanghai
   host: boolan
   url: http://sdcon.com.cn/
+  
+  VueConf China 2022:
+  name: Vue Conf China 2022
+  date: 2022-12-10
+  days: 1
+  city: Live
+  host: 
+  url: https://vue.w3ctech.com
 
 QConBeijing:
   name: QCon 全球软件开发大会 2022·北京站
