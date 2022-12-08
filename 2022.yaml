@@ -120,13 +120,21 @@ KeylinkCon:
   host: keylinking
   url: http://2022shanghai.keylinkcon.com/
   
-VueConf China 2022:
+VueConf-China:
   name: Vue Conf China 2022
   date: 2022-12-10
   days: 1
   city: Online
-  host: 
+  host: w3ctech
   url: https://vue.w3ctech.com
+  
+D2:
+  name: 聚变 第十七届D2终端技术大会
+  date: 2022-12-17
+  days: 2
+  city: Online
+  host: alibaba
+  url: https://d2.alibabatech.com/
 
 # QConBeijing:
 #   name: QCon 全球软件开发大会 2022·北京站
