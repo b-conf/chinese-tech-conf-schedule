@@ -119,14 +119,6 @@ KeylinkCon:
   city: Shanghai
   host: keylinking
   url: http://2022shanghai.keylinkcon.com/
-
-SDCon:
-  name: 2022全球软件研发技术大会
-  date: 2022-12-02
-  days: 2
-  city: Shanghai
-  host: boolan
-  url: http://sdcon.com.cn/
   
 VueConf China 2022:
   name: Vue Conf China 2022
