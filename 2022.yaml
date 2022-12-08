@@ -16,7 +16,7 @@
 #   host: openatom
 #   url: https://www.openatom.org/
   
-Top100Summit:
+Top100Summit-2021:
   name: 第十届全球软件案例研究峰会
   date: 2022-01-06
   days: 4
@@ -135,6 +135,14 @@ D2:
   city: Online
   host: alibaba
   url: https://d2.alibabatech.com/
+
+Top100Summit-2022:
+  name: 全球软件案例研究峰会 2022壹佰大会
+  date: 2022-12-15
+  days: 4
+  city: Online
+  host: msup
+  url: https://www.top100summit.com/
 
 # QConBeijing:
 #   name: QCon 全球软件开发大会 2022·北京站
