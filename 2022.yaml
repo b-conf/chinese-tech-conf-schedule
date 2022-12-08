@@ -8,13 +8,13 @@
 #   host: Alipay
 #   url: https://www.inclusionconf.com/
 
-OADC:
-  name: 开放原子全球开发者大会
-  date: 2022-12-27
-  days: 2
-  city: Wuxi
-  host: openatom
-  url: https://www.openatom.org/
+# OADC:
+#   name: 开放原子全球开发者大会
+#   date: 2022-12-27
+#   days: 2
+#   city: Wuxi
+#   host: openatom
+#   url: https://www.openatom.org/
   
 Top100Summit:
   name: 第十届全球软件案例研究峰会
