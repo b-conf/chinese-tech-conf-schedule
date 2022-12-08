@@ -128,21 +128,21 @@ VueConf China 2022:
   host: 
   url: https://vue.w3ctech.com
 
-QConBeijing:
-  name: QCon 全球软件开发大会 2022·北京站
-  date: 2022-12-18
-  days: 3
-  host: geekbang
-  city: Beijing
-  url: https://qcon.infoq.cn/2022/beijing
+# QConBeijing:
+#   name: QCon 全球软件开发大会 2022·北京站
+#   date: 2022-12-18
+#   days: 3
+#   host: geekbang
+#   city: Beijing
+#   url: https://qcon.infoq.cn/2022/beijing
   
-GMTCBeijing:
-  name: GMTC 全球大前端技术大 2022·北京站
-  date: 2022-12-19
-  days: 2
-  host: geekbang
-  city: Beijing
-  url: https://gmtc.infoq.cn/2022/beijing/
+# GMTCBeijing:
+#   name: GMTC 全球大前端技术大 2022·北京站
+#   date: 2022-12-19
+#   days: 2
+#   host: geekbang
+#   city: Beijing
+#   url: https://gmtc.infoq.cn/2022/beijing/
 
 # GMTCShenzhen:
 #   name: GMTC 全球大前端技术大 2022·深圳站
@@ -151,14 +151,6 @@ GMTCBeijing:
 #   host: geekbang
 #   city: Shenzhen
 #   url: https://gmtc.infoq.cn/2022/shenzhen/
-
-Web3:
-  name: Web 3.0 2022
-  date: 2022-12-16
-  days: 1
-  city: Shanghai
-  host: conf42
-  url: https://www.conf42.com/web2022
 
 DTCC:
   name: 中国数据库技术大会
