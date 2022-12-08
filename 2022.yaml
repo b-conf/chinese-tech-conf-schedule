@@ -128,11 +128,11 @@ SDCon:
   host: boolan
   url: http://sdcon.com.cn/
   
-  VueConf China 2022:
+VueConf China 2022:
   name: Vue Conf China 2022
   date: 2022-12-10
   days: 1
-  city: Live
+  city: Online
   host: 
   url: https://vue.w3ctech.com
 
