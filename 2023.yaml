@@ -5,3 +5,11 @@ GOTC:
   city: Shenzhen
   host: oschina
   url: https://gotc2023.oschina.net
+
+SDCon:
+  name: 2023全球软件研发技术大会
+  date: 2023-03-00
+  days: 2
+  city: Shanghai
+  host: boolan
+  url: http://sdcon.com.cn/
