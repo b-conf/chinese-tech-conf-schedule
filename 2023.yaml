@@ -1,15 +1,23 @@
 GOTC:
-  name: 全球开源技术峰会（Global Open-source Technology Conference）
-  date: 2023-02-25
+  name: GOTC 2023 全球开源技术峰会（The Global Open-source Technology Conference）
+  date: 2023-05-27
   days: 2
-  city: Shenzhen
+  city: Shanghai
   host: oschina
   url: https://gotc2023.oschina.net
 
 SDCon:
   name: 2023全球软件研发技术大会
-  date: 2023-03-00
+  date: 2023-04-14
   days: 2
   city: Shanghai
   host: boolan
   url: http://sdcon.com.cn/
+  
+QCon-Guangzhou:
+  name: QCon 全球软件开发大会 2023·广州站
+  date: 2023-05-26
+  days: 2
+  city: Guangzhou
+  host: geekbang
+  url: https://qcon.infoq.cn/2023/guangzhou/
