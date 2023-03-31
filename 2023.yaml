@@ -21,3 +21,11 @@ QCon-Guangzhou:
   city: Guangzhou
   host: geekbang
   url: https://qcon.infoq.cn/2023/guangzhou/
+  
+Xitu:
+  name: 第三届稀土开发者大会
+  date: 2023-06-30
+  days: 2
+  city: Beijing
+  host: juejin
+  url: https://conf.juejin.cn/
