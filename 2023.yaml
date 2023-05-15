@@ -29,3 +29,11 @@ Xitu:
   city: Beijing
   host: juejin
   url: https://conf.juejin.cn/
+  
+OAGS:
+  name: 2023 开放原子全球开源峰会
+  date: 2023-06-11
+  days: 3
+  city: Beijing
+  host: openatom
+  url: https://www.openatom.org/summit
