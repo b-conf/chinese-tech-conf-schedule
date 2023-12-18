@@ -38,18 +38,42 @@ OAGS:
   host: openatom
   url: https://www.openatom.org/summit
 
-VueConf:
-  name: 第六届 Vue.js 开发者大会
-  date: 2023-08-26
-  days: 1
-  city: Suzhou
-  host: w3ctech
-  url: https://vue.w3ctech.com/
+# VueConf:
+#   name: 第六届 Vue.js 开发者大会
+#   date: 2023-08-26
+#   days: 1
+#   city: Suzhou
+#   host: w3ctech
+#   url: https://vue.w3ctech.com/
 
-ViteConf:
-  name: 第一届 Vite 开发者大会
-  date: 2023-08-26
+# ViteConf:
+#   name: 第一届 Vite 开发者大会
+#   date: 2023-08-26
+#   days: 1
+#   city: Suzhou
+#   host: w3ctech
+#   url: https://vite.w3ctech.com/
+
+FEDAY:
+  name: 第六届 FEDAY
+  date: 2023-11-18
   days: 1
-  city: Suzhou
+  city: Hangzhou
   host: w3ctech
-  url: https://vite.w3ctech.com/
+  url: https://fequan.com/2023/
+
+OADC:
+  name: 2023 开放原子开发者大会
+  date: 2023-12-16
+  days: 2
+  city: Wuxi
+  host: openatom
+  url: https://openatomcon.openatom.cn/
+
+QCon-Shanghai:
+  name: QCon 全球软件开发大会 2023·上海站
+  date: 2023-12-28
+  days: 2
+  city: Shanghai
+  host: geekbang
+  url: https://qcon.infoq.cn/2023/shanghai/
